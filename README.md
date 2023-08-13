@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adsoy&label=Profile%20views&color=0e75b6&style=flat" alt="adsoy" /> </p>
 
-- 🔭 I’m currently working on **a project framework TestNG and Cucumber**
+- 🔭 I’m currently working on **a project framework TestNG **
 
 - 📧 e-mail: dnnsylmz78@gmail.com
   
