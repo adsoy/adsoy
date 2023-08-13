@@ -5,11 +5,10 @@
 
 - 🔭 I’m currently working on **a project framework TestNG and Cucumber**
 
-- 📫 How to reach me **dnnsylmz78@gmail.com**
 
 - ⚡ Fun fact **i am writing code 🚀**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:dnnsylmz78@gmail.com</h3>
 <p align="left">
 </p>
 
