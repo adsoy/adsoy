@@ -5,10 +5,12 @@
 
 - 🔭 I’m currently working on **a project framework TestNG and Cucumber**
 
-
+- 📧 e-mail: dnnsylmz78@gmail.com
+  
 - ⚡ Fun fact **i am writing code 🚀**
-
-<h3 align="left">Connect with me:dnnsylmz78@gmail.com</h3>
+  
+- 🎬 watching films & 🚶trekking
+  
 <p align="left">
 </p>
 
