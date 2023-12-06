@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm adnan</h1>
+<h1 align="center">Hi 👋, I'm Adnan</h1>
 <h3 align="center"> QA from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adsoy&label=Profile%20views&color=0e75b6&style=flat" alt="adsoy" /> </p>
